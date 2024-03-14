@@ -1,0 +1,12 @@
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/bin/Debug/net7.0/Domain.deps.json
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/bin/Debug/net7.0/Domain.dll
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/bin/Debug/net7.0/Domain.pdb
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.dll
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/Domain.pdb
+/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/obj/Debug/net7.0/ref/Domain.dll

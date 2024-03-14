@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPXrUoiTqZWQudK1PAx2tWO2ztk9Q/svh9wKX0Delwp8J5pBKddE6q2EC8ao9PG4njbhvHDP4H2bmDViv+4PXA==",
+  "success": true,
+  "projectFilePath": "/home/victorxavier/Projeto-AnotaAI/src/Api.Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/victorxavier/.nuget/packages/microsoft.identitymodel.abstractions/7.4.0/microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "/home/victorxavier/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.4.0/microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "/home/victorxavier/.nuget/packages/microsoft.identitymodel.logging/7.4.0/microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "/home/victorxavier/.nuget/packages/microsoft.identitymodel.tokens/7.4.0/microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "/home/victorxavier/.nuget/packages/system.identitymodel.tokens.jwt/7.4.0/system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
